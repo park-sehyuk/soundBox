@@ -39,6 +39,7 @@ const DrumPad = () => {
           {drum.id} - {drum.title}
         </button>
       ))}
+      <button>ooo</button>
     </div>
   );
 };

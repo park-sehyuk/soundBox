@@ -1,3 +1,4 @@
 import DrumPad from "./DrumPad";
+import AnimalPad from "./AnimalPad";
 
-export { DrumPad };
+export { DrumPad, AnimalPad };
